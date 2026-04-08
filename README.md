@@ -1,5 +1,6 @@
 # Bistable Kitty Multivibrator
 ###### TOTAL TIME: 3hr 21min
+Hackatime: https://lapse.hackclub.com/timelapse/kpVtzk44xacg
 
 This is a PCB for a Bistable multivibrator. I made it cause we were forced to in Reslution hardware week 2. But I choose this spefic circut because I liked how there are only 2 states and it could be useful for many other circuts like analog so I thought this would be a useful on to pratice
 
