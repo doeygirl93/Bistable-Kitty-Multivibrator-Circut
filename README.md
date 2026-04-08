@@ -46,12 +46,13 @@ r 816 304 816 416 0 1000
 ---
 ## Schematic
 
-![Schematic Image](./path/to/schematic.png)
+![Complete Schematic](attachments/complete_schemati.png)
 
 ## PCB
 
-![PCB Image](./path/to/PCB.png)
-
+![3D Front View](attachments/3d_front.png)
+![3D Back View](attachments/3d_back.png)
+![Complete PCB](attachments/complete_pcb.png)
 ---
 
 Uhh Thanks to Rohan for helping me for reminding me to do week 2 and teaching me how to fix the Routing my PCB! I was lowk finna give up without it. Also thanks for Rudy for lettting me submit this late😭
