@@ -10,7 +10,9 @@ This is a PCB for a Bistable multivibrator. I made it cause we were forced to in
 
 So this works like a flipflop. SO this type of circut only has 2 stable states and it always remains inside on the state until you physically switch to another. And while one is on the other has to be off. In context of digital circuts it can be used as basic memory elements. And i used 6 resitors, 2 led 2 npn transitoris 2 switches.
 
-![Falstad Simulation Gif](./path/to/demo.gif)
+![Completed Circuit 1 GIF](attachments/completed_circ.gif)
+![Completed Circuit 2 GIF](attachments/completed_circ2.gif)
+![Successful 2nd Circuit](attachments/complete_2nd_circ.png)
 
 [Link to Demo]($ 1 0.000005 10.20027730826997 50 5 50 5e-11
 R 512 160 480 160 0 0 40 5 0 0 0.5
